@@ -113,24 +113,4 @@ This project was built to demonstrate:
 - Unit and integration testing
 - Deployment on cloud infrastructure
 
----
 
-## How to Run
-
-1. Clone the repository  
-   git clone https://github.com/yourusername/financial-transaction-management-system.git  
-
-2. Configure database credentials in application.properties  
-
-3. Start backend server  
-
-4. Run frontend client  
-
-5. Access application locally  
-
----
-
-## Author
-
-Sadiya Noor  
-Computer Science Engineering Student  
